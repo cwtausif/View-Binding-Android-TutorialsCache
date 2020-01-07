@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ViewBindingExample</string>
+    <string name="create_profile">Create Profile</string>
+</resources>
